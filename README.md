@@ -7,4 +7,4 @@ Visit the [dev site](https://developers.facebook.com/docs/messenger-platform/) t
 
 Tap deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/happylap/messenger-platform-samples/tree/master/node/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/happylap/messenger-platform-samples/)
