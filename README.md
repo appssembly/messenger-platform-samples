@@ -4,3 +4,7 @@ This is a sample project showcasing the Messenger Platform. You can go through t
 
 Visit the [dev site](https://developers.facebook.com/docs/messenger-platform/) to find out more details about the Messenger Platform.
 
+
+Tap deploy button.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/happylap/messenger-platform-samples/)
